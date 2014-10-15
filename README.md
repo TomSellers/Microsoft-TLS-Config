@@ -14,6 +14,18 @@ Corrections and suggestions are greatly appreciated via GitHub or Twitter
 at [@TomSellers][twitter-link]
 
 
+Note: The filenames contain information about platform and compatiblity.
+      You may need to change to the Github file listing view to easily
+      see the full filename.
+      
+Particular details to keep in mind
+--
+* Windows XP does not support AES cipher suites
+* Windows Server 2003 does not support AES natively, but support was added in [KB948963][ms-2003-aes]
+* Windows Server 2003 and XP with IE 6 support TLS 1.0 after a configuration change.
+* Windows Server 2003 and XP with IE 8 support TLS 1.0 by default.
+
+
 General Process
 --
 1. Select a Cipher_Suites file matching your desired level of compatibility and security.
