@@ -30,7 +30,7 @@ Particular details to keep in mind
 
 Terminology usage in this repository
 --
-* 'Max Compability' indicates TLS protocol support for SSL 3.0, TLS 1.0, 1.1, 1.2
+* 'Max Compability' indicates TLS protocol support for SSL 3.0 and TLS 1.0, 1.1, 1.2
 * 'High Security' indicates cipher suite settings that break Internet Explorer 6 era code by removal of RC4 and 3DES.
 
 General Process
