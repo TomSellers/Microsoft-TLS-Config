@@ -62,6 +62,7 @@ References
 * [SSL / TLS Browser compatibility chart - Wikipedia][wiki-tls-compat]
 * [Microsoft patch to add limited AES support to Windows Server 2003 - KB948963][ms-2003-aes]
 * [Cipher Suites in Microsoft Schannel][ms-schannel]
+* [How to restrict the use of certain cryptographic algorithms and protocols in Schannel.dll][ms-restrict]
 
 
 
@@ -73,3 +74,4 @@ References
 [wiki-tls-compat]: http://en.wikipedia.org/wiki/Transport_Layer_Security#Web_browsers
 [ms-2003-aes]: http://support.microsoft.com/kb/948963
 [ms-schannel]: http://msdn.microsoft.com/en-us/library/windows/desktop/aa374757(v=vs.85).aspx
+[ms-restrict]: http://support.microsoft.com/kb/245030
