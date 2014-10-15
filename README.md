@@ -26,6 +26,7 @@ General Process
 8. Test with representative clients.
 
 References
+--
 * [SSL / TLS Browser compatibility chart - Wikipedia][wiki-tls-compat]
 * [Microsoft patch to add limited AES support to Windows Server 2003 - KB948963][ms-2003-aes]
 * [Cipher Suites in Microsoft Schannel][ms-schannel]
