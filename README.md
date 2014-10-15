@@ -28,6 +28,10 @@ Particular details to keep in mind
 * Windows Server 2003 and XP with IE 6 support TLS 1.0 after a configuration change.
 * Windows Server 2003 and XP with IE 8 support TLS 1.0 by default.
 
+Terminology usage in this repository
+--
+* 'Max Compability' indicates TLS protocol support for SSL 3.0, TLS 1.0, 1.1, 1.2
+* 'High Security' indicates cipher suite settings that break Internet Explorer 6 era code by removal of RC4 and 3DES.
 
 General Process
 --
