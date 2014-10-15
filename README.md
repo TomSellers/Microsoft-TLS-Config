@@ -27,6 +27,7 @@ Particular details to keep in mind
 * Windows Server 2003 does not support AES natively, but support was added in [KB948963][ms-2003-aes]
 * Windows Server 2003 and XP with IE 6 support TLS 1.0 after a configuration change.
 * Windows Server 2003 and XP with IE 8 support TLS 1.0 by default.
+* These setting changes impact how the Windows OS handles SSL and TLS. This affects all application that do not use their own libraries for SSL and TLS.
 
 Terminology usage in this repository
 --
