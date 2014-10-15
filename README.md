@@ -13,11 +13,14 @@ If anything in this repository is incorrect then it is definitely my fault.
 Corrections and suggestions are greatly appreciated via GitHub or Twitter 
 at [@TomSellers][twitter-link]
 
+<br />
 
 Note: The filenames contain information about platform and compatiblity.
       You may need to change to the Github file listing view to easily
       see the full filename.
-      
+
+<br />
+
 Particular details to keep in mind
 --
 * Windows XP does not support AES cipher suites
