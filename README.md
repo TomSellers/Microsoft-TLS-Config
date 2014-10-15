@@ -23,11 +23,12 @@ Note: The filenames contain information about platform and compatiblity.
 
 Particular details to keep in mind
 --
+* [Android supports TLS 1.0 since 2.3][android-tls]
 * Windows XP does not support AES cipher suites
 * Windows Server 2003 does not support AES natively, but support was added in [KB948963][ms-2003-aes]
 * Windows Server 2003 and XP with IE 6 support TLS 1.0 after a configuration change.
 * Windows Server 2003 and XP with IE 8 support TLS 1.0 by default.
-* These setting changes impact how the Windows OS handles SSL and TLS. This affects all applications that do not use their own libraries for SSL and TLS.
+* Settings provided in this repository impact how the Windows operating sytem handles SSL and TLS. This affects all applications that do not use their own libraries for SSL and TLS.
 
 Terminology usage in this repository
 --
@@ -75,3 +76,4 @@ References
 [ms-2003-aes]: http://support.microsoft.com/kb/948963
 [ms-schannel]: http://msdn.microsoft.com/en-us/library/windows/desktop/aa374757(v=vs.85).aspx
 [ms-restrict]: http://support.microsoft.com/kb/245030
+[android-tls]: https://developer.android.com/training/articles/security-ssl.html
