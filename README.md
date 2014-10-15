@@ -19,10 +19,11 @@ General Process
 1. Select a Cipher_Suites file matching your desired level of compatibility and security.
 2. Select an SChannel_config matching your level level of compatibility and security.
 3. Download these to your server.
-4. Double click to install each, review and accept each warning message.
-5. Restart the server.
-6. Test with the [Qualys' SSL Labs site][ssllabs] - https://www.ssllabs.com/ssltest/analyze.html
-7. Test with representative clients.
+4. Review all the settings and make sure you understand them! ** NO WARRANTY **
+5. Double click to install each, review and accept each warning message.
+6. Restart the server.
+7. Test with the [Qualys' SSL Labs site][ssllabs] - https://www.ssllabs.com/ssltest/analyze.html
+8. Test with representative clients.
 
 References
 * [SSL / TLS Browser compatibility chart - Wikipedia][wiki-tls-compat]
